@@ -1,5 +1,5 @@
-Frozen bombsicle, 
-Jolly Rancher Blue Raspberry, 
-Watermelon, 
-Strawberry Waterlemon, 
-Cherry Limeade,
+Frozen bombsicle,3.79
+Jolly Rancher Blue Raspberry,3.80
+Watermelon,3.40
+Strawberry Waterlemon,3.45
+Cherry Limeade,3.79

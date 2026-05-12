@@ -1,5 +1,5 @@
-Red Edition, 
-Coconut Berry,
-Yellow Edition, 
-Peach Edition, 
-Juneberry,
+Red Edition,2.00
+Coconut Berry,3.40
+Yellow Edition,3.80
+Peach Edition,3.99
+Juneberry,2.85

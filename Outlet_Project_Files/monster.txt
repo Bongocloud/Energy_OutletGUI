@@ -1,5 +1,5 @@
-Original, 
-White, 
-Mango loco, 
-Ultra violet, 
-Bad apple
+Original,3.49
+White,2.30
+Mango loco,3.40
+Ultra violet,3.00
+Bad apple,2.49

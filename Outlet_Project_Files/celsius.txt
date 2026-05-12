@@ -1,5 +1,5 @@
-Sparkling Orange, 
-Sparkling Peach Vibe, 
-Sparkling Kiwi Guava, 
-Artic Vibe, 
-Peach Mango Green Tea,
+Sparkling Orange,2.99
+Sparkling Peach Vibe,2.50
+Sparkling Kiwi Guava,2.99
+Artic Vibe,3.00
+Peach Mango Green Tea,2.38

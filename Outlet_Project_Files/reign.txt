@@ -1,5 +1,5 @@
-Orange Dreamsicle, 
-Melon Mania, 
-Razzle Bery, 
-Cherry Limeade, 
-Reignbow Sherbet,
+Orange Dreamsicle,4.50
+Melon Mania,4.49
+Razzle Bery,3.95
+Cherry Limeade,4.00
+Reignbow Sherbet,4.49
